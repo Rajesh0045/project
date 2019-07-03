@@ -1,5 +1,5 @@
-a=int(input())
-b=0
-for j in range(0,a+1):
-    b=b+j
-print(b)
+n = int(input())
+sum = 0
+for n in range(0,n+1,1):
+sum = sum+n
+print(sum)
