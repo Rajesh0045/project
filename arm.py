@@ -1,11 +1,11 @@
-nm=int(input())
+num=int(input())
 sum=0
-t=nm
+t=num
 while t>0:
   digit=t%10
   sum+=digit**3
   t//=10
-if nm==sum:
+if num==sum:
   print("yes")
 else:
   print("no")
