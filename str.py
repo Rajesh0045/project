@@ -1,4 +1,4 @@
 def revstr(str):
-return str[::-1]
-meow=input()
-print(revstr(meow),end=" ")
+ return str[::-1]
+bow=input()
+print(revstr(bow),end=" ")
