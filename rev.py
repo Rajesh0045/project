@@ -5,3 +5,6 @@ def revnum(m):
     rev=(rev*10)+rem
     m=m//10
   return rev
+a=int(input())
+rev=revnum(a)
+print(rev,end=" ")
