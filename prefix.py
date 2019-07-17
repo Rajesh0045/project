@@ -10,3 +10,6 @@ for i in range(len(ma2)):
      ba1=qt[j]
      if ma2[:i+1]==ba1[:i+1]:
        result=ma2[:i+1]
+        else:
+          break
+          print(result)
