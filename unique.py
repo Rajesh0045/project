@@ -10,4 +10,4 @@ if same:
     print(*same)
     else:
         print("unique")
-        n
+        
