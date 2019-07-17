@@ -6,4 +6,5 @@ for s in t:
 if f==l:
   print('yes')
   else:
+  print('no')  
   
