@@ -7,3 +7,4 @@ comb = combinations(n,len(n)-p)
 comb = list(comb)
 for i in comb:
     ls.append("".join(i))
+    print(min(ls))
