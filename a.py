@@ -8,3 +8,5 @@ for i in s1:
    else:
       c[i]=1
 for key,value in c.items():
+if value==1:
+   print(key)
